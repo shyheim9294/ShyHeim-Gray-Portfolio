@@ -8,7 +8,7 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-<b>Skills Used</b>: Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Logistic Regression
+<b>Skills Used</b>: Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Linear Regression
 
 <b>Project Objective</b>: Used Linear regression to predict the number of bikes rented in the city of Seoul
 
