@@ -28,12 +28,15 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/bank-logo.jpg?raw=true"/>
 
-- Used logistic regression to predict customer subscriptions for there term deposit (Used real worked data from UCI, machine learning repository)
-- Loaded the data
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to financal needs
-    - Result : 
-        - Accuracy Score = 90.68%
+<b>Skills Used</b>: Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Logistic Regression
+
+<b>Project Objective</b>: Used logistic regression to predict customer subscriptions for there term deposit (Used real worked data from UCI, machine learning repository)
+
+<b>Quantifiable Results</b>
+  - Accuracy Score = 90.68%
+  - Loaded the data
+  - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
+  - Explored a machine learning approach to financal needs
       
 ***
 
@@ -41,13 +44,16 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
-    - Result :
-       - Correct Predictions = 63
-       - False Predictions = 15
-       - Accuracy of Naive Bayes Clasification is 80.77%
+<b>Skills Used</b>: Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Logistic Regresssion
+
+<b>Project Objective</b>: Used the K Nearest Neighnours algorithm to classify a patients condition as normal or abnormal based on various orthopedic parameters
+
+<b>Quantifiable Results</b>
+  - Correct Predictions = 63
+  - False Predictions = 15
+  - Accuracy of Navie Bayes Clasification is 80.77%
+  - Compared predictive performance by fitting a Naive Bayes model to the data
+  - Selected best model based on train and test performance
 
 ***
 
@@ -55,15 +61,19 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/Click-Mouse.jpg?raw=true"/>
 
-- Used Bagged and Boosted algorithims to predict the proability of false clicks
-- Explored the dataset anomolies and missing values
-- Used the necessary techniques to get rid of the apps that very rare (comprised of less than 20% clicks), plotted the rest
-- Divided the data into training and testing subsets (80-20), and checked the average download rates for those subsets
-- Applied XGBoostClassifier on training data to make prediction on test data
-- Applied BaggingClassifier Logistic Regression to compute the ROC/AUC score
-- Finally determined the accuracy of the XGBoostClassifier and BaggingClassifier
-    - Result : 
-       - Accuracy of thhe decision Tree is 99.8%
+<b>Skills Used</b>: Pandas, Numpy, Seaborn, Matplotlib
+
+<b>Project Objective</b>: Used Bagged and Boosted algorithims to predict the proability of false clicks
+
+<b>Quantifiable Results</b>
+  - Accuracy of the Decision Tree is 99.8%
+  - Explored the dataset anomolies and missing values
+  - Used the necessary techniques to get rid of the apps that very rare (comprised of less than 20% clicks), plotted the rest
+  - Divided the data into training and testing subsets (80-20), and checked the average download rates for those subsets
+  - Applied XGBoostClassifier on training data to make prediction on test data
+  - Applied BaggingClassifier Logistic Regression to compute the ROC/AUC score
+  - Finally determined the accuracy of the XGBoostClassifier and BaggingClassifier
+
 
 ***
 
@@ -71,13 +81,17 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/Kmeans-logo.jpg?raw=true"/>
 
-- Reduced the necessary columns
-- Cleaned up the data
-- Detected the parameters for the clustering algorithm
-- Based on the models gave some insight on what could be improved  
-    - Results :
-       - K-value = 3
-       - Silhousette = 0.53164
+<b>Skills Used</b>: Numpy, Pandas, Seaborn, matplotlib
+
+<b>Project Objective</b>: Based on the models was able to give some insight on what could be improved 
+
+<b>Quantifiable Results</b>
+  - K-value = 3
+  - Silhousette = 0.53164
+  - Reduced the necessary columns
+  - Cleaned up the data
+  - Detected the parameters for the clustering algorithm  
+
 
 ***
 
@@ -85,16 +99,20 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/PCA-logo.jpg?raw=true"/>
 
-- Extract numerical columns
-- Removed the unnecssary columns
-- Checked for missing values
-- Scaled the data
-- Apply PCA to the cleaned up data to increase intrepretability; while minimizing information lost
+<b>Skills Used</b>: Numpy, Pandas, Sklearn, Seaborn
+
+<b>Project Objective</b>: Applying PCA to the cleaned up data to increase intrepretability; while minimizing information lost
+
+<b>Quantifiable Results</b>
+  - Linear Regrwession proved to be the better model for the orginal dataset, afterwards transfomred to data to smaller features using PCA
+  - Orginal - 81 Features - R2 = 0.06444
+  - PCA - 2 Features - R2 = 0.07144
+  - Extract numerical columns
+  - Removed the unnecssary columns
+  - Checked for missing values
+  - Scaled the data
     
-    - Result :
-        - Linear Regression proved to be better model on the orginal datset, afterwards transformed the data to smaller features using PCA
-        - Original - 81 Features - R2 = 0.06444
-        - PCA - 2 Features - R2 = 0.07144
+
       
 
 ***
@@ -103,17 +121,19 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/NLP_Logo.jpg?raw=true"/>
 
-- Tokenize Test
-- Syntactic Analysis
-- Semantic Analysis
-- Discourse Integration
-- Pragmatic Analysis
-     - Result : 
-        - BoW - Best Alpha - 0.005, AUC Score - 0.9412
-        - Tf-Idf - Best Alhpa - 0.01, AUC Score - 0.9254
-     - Accuracy Score :
-        - BoW = 94.1%
-        - Tf-Idf = 92.5%
+<b>Skills Used</b>: Pandas, Numpy, Sklearn, SQ lite, Seaborn, Matplotlib, Natural Learning
+
+<b>Projedct Objective</b>: Being able to determine wheatheer a review is positive or negative while using Natural Leraning methods
+
+<b>Quantifiable Results</b>
+  - Acurracy Score - BoW = 94.1%, Tf-Idf = 92.5%
+  - BoW - Best Alpha - 0.005, AUC Score - 0.9412
+  - Tf-Idf - Best Alpha - 0.01, AUC Score - 0.9254 
+  - Tokenize Test
+  - Syntactic Analysis
+  - Semantic Analysis
+  - Discourse Integration
+  - Pragmatic Analysis
 
 ***
 
@@ -121,15 +141,19 @@ This portfolio has a list of my current projects up to date; They're all related
 
 <img src="images/Dnn_logo.jpeg?raw=true"/>
 
-- Load the data
-- Initial data indagation
-- Initial EDA
-- Data Prepping
-- Model contruction
-- Model eval
-- Model eval metrics
-- Improved the model
-- Improved the depth of model
-  - Result: 
-    - Loss - 0.037 - 0.9909 = Final Model Evaluation - 99.0899%
+<b>Skills Used</b>: Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking 
+
+<b>Project Objective</b>: Implementing Deep Neural Network with Keras for handwritting classification and recognition
+
+<b>Quantifiable Results</b>
+  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+  - Improved the model
+  - Improved the depth of model
         
