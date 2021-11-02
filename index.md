@@ -13,7 +13,6 @@ This portfolio has a list of my current projects up to date; They're all related
 <b>Project Objective</b>: Used Linear regression to predict the number of bikes rented in the city of Seoul
 
 <b>Quantifiable Results</b>: Based on the linear Regression model with high prediction accuracy through iteration 
-- Results :
   - Mean Absolute Error of linear regression = 322.49952202535525
   - Mean Square Error of linear regresssion = 187563.13400959878
   - R_Squard Score of linear regression = 0.18611407115471357
