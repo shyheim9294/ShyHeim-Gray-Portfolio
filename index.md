@@ -15,7 +15,7 @@ This portfolio has a list of my current projects up to date; They're all related
 <b>Quantifiable Results</b>: Based on the linear Regression model with high prediction accuracy through iteration 
   - Mean Absolute Error of linear regression = 322.49952202535525
   - Mean Square Error of linear regresssion = 187563.13400959878
-  - R_Squard Score of linear regression = 0.18611407115471357
+  - #1589F0 [R_Squard Score of linear regression = 0.18611407115471357](https://github.com/shyheim9294/ShyHeim-Gray.github.io/blob/master/Linear_Regression_Project.ipynb)
 
     - The data had quite a few categorical variables which were encoded for use in the model
     - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
